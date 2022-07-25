@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title_en": "Coffe & Tea",
+        "title_tr":"Kahve & Çay",
+        "image": "https://d1rn6kzjmi8824.cloudfront.net/wp-content/uploads/sites/3/2020/07/11134418/Coffee.png"
+    },
+    {
+        "id": 2,
+        "title_en": "Cookies",
+        "title_tr":"Kurabiyeler",
+        "image": "https://d1rn6kzjmi8824.cloudfront.net/wp-content/uploads/sites/3/2020/07/11132504/Cookies.png"
+    },
+    {
+        "id": 3,
+        "title_en": "Croissants",
+        "title_tr":"Kruvasanlar",
+        "image": "https://d1rn6kzjmi8824.cloudfront.net/wp-content/uploads/sites/3/2020/07/11132504/Croissant.png"
+    },
+    {
+        "id": 4,
+        "title_en": "Danish",
+        "title_tr":"Danimarka Çöreği",
+        "image": "https://d1rn6kzjmi8824.cloudfront.net/wp-content/uploads/sites/3/2020/07/11132504/Danish.png"
+    },
+    {
+        "id": 5,
+        "title_en": "Feteer & Pies",
+        "title_tr":"Turtalar",
+        "image": "https://d1rn6kzjmi8824.cloudfront.net/wp-content/uploads/sites/3/2020/07/11132505/Feeter-pies.png"
+    },
+    {
+        "id": 6,
+        "title_en": "Juice",
+        "title_tr":"Meyve suyu",
+        "image": "https://d1rn6kzjmi8824.cloudfront.net/wp-content/uploads/sites/3/2020/07/12095139/Juice.png"
+    },
+    {
+        "id": 7,
+        "title_en": "Muffin",
+        "title_tr":"Kek",
+        "image": "https://d1rn6kzjmi8824.cloudfront.net/wp-content/uploads/sites/3/2020/07/11132505/Muffin.png"
+    },
+    {
+        "id": 8,
+        "title_en": "Pita Bread",
+        "title_tr":"Pide Ekmek",
+        "image": "https://d1rn6kzjmi8824.cloudfront.net/wp-content/uploads/sites/3/2020/07/11132505/Pita-Bread.png"
+    },
+    {
+        "id": 9,
+        "title_en": "Round Cake",
+        "title_tr":"Yuvarlak Kek",
+        "image": "https://d1rn6kzjmi8824.cloudfront.net/wp-content/uploads/sites/3/2020/07/11132505/Round-Cake.png"
+    },
+    {
+        "id": 10,
+        "title_en": "Sliced Cake",
+        "title_tr":"Dilimlenmiş Kek",
+        "image": "https://d1rn6kzjmi8824.cloudfront.net/wp-content/uploads/sites/3/2020/07/11132504/Chees-Cake.png"
+    },
+    {
+        "id": 11,
+        "title_en": "Soft Bread",
+        "title_tr":"Yumuşak Ekmek",
+        "image": "https://d1rn6kzjmi8824.cloudfront.net/wp-content/uploads/sites/3/2020/07/11132505/SoftBread.png"
+    },
+    {
+        "id": 12,
+        "title_en": "Toast & Loafs",
+        "title_tr":"Tost ve Somun",
+        "image": "https://d1rn6kzjmi8824.cloudfront.net/wp-content/uploads/sites/3/2020/07/11132506/Toast.png"
+    }
+] 

@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply font-sans text-[#212121] font-normal bg-slate-200
+}
+
+.swiper-button-next, .swiper-button-prev{
+    @apply bg-white rounded-full !w-8 !h-8 drop-shadow-xl border
+}
+
+.swiper-button-next::after, .swiper-button-prev::after{
+    @apply !text-xs font-bold text-black
+}
+.swiper-button-next:hover, .swiper-button-prev:hover{
+    @apply bg-black
+}
+
+.swiper-button-next:hover::after, .swiper-button-prev:hover::after{
+    @apply text-white;
+}
